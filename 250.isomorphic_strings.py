@@ -56,4 +56,21 @@ There is also another solution, which is based on the idea of 1-to-1 and unique
 
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
+        """
+        So we have the following cases:
+        - s = egg, t = add
+            set(s) = eg -> len = 2
+            set(zip(s, t)) = {('e', 'a'), ('g', 'd')}  -> len = 2
+            set(t) = ad -> len = 2
+            -> True
+        So it is on the zip, where we can asses that there is a relationship between a certain pair of words.
+
+        - s = foo, t = bar
+            set(s) = fo -> len = 2
+            set(zip(s, t)) = {('f', 'b'), ('o', 'a'), ('o', 'r')}  -> len = 3
+            set(t) = bar -> len = 3
+            -> False
+        There are more unique values in t than in s, so relationship can't be 1 to 1 (o has two relations, as we can see in zip).
+        """
+
         return len(set(s)) == len(set(zip(s, t))) == len(set(t))
