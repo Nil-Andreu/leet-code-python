@@ -13,6 +13,8 @@ In this repository, you will find a wide range of LC solutions, including the fo
     - **1480.Running Sum Of 1 Array**: [link](1480.running_sum_of_1_array.py)
 
 - Strings:
+
+    - **293.Is Subsequence**: [link](293.is_subsequence.py)
 - Queue/Heap:
 - Linked Lists:
 
