@@ -5,12 +5,12 @@ In this repository, you will find a wide range of LC solutions, including the fo
 
     - **1.Two Sum**: [link](1.two_sum.py)
     - **724.Find Pivot Index**: [link](724.find_pivot_index.py)
-    - **1480.Running Sum Of 1 Array**: [link](1480.running_sum_of_1_array.py)
+    - **1480.Running Sum Of 1 Array**: [link](a1480.running_sum_of_1_array.py)
 
 - Maps/Dicts:
 
     - **1.Two Sum**: [link](1.two_sum.py)
-    - **1480.Running Sum Of 1 Array**: [link](1480.running_sum_of_1_array.py)
+    - **1480.Running Sum Of 1 Array**: [link](a1480.running_sum_of_1_array.py)
 
 - Strings:
 
