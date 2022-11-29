@@ -15,6 +15,8 @@ In this repository, you will find a wide range of LC solutions, including the fo
 - Strings:
 
     - **293.Is Subsequence**: [link](293.is_subsequence.py)
+    - **250.Isomorphic Strings**: [link](250.isomorphic_strings.py)
+
 - Queue/Heap:
 - Linked Lists:
 
