@@ -20,4 +20,6 @@ In this repository, you will find a wide range of LC solutions, including the fo
 - Queue/Heap:
 - Linked Lists:
 
+    - **21.Merge Two Sorted Lists**: [link](21.merge_two_sorted_lists.py)
+
 I tried to make efficient solutions, but wanted also to have an understandable explanation. So might be some  algorithms that are not the fastests or most efficient.
