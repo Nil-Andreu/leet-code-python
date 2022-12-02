@@ -21,5 +21,6 @@ In this repository, you will find a wide range of LC solutions, including the fo
 - Linked Lists:
 
     - **21.Merge Two Sorted Lists**: [link](21.merge_two_sorted_lists.py)
+    - **206.Reverse Linked List**: [link](206.reverse_linked_list.py)
 
 I tried to make efficient solutions, but wanted also to have an understandable explanation. So might be some  algorithms that are not the fastests or most efficient.
