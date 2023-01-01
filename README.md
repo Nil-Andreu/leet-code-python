@@ -14,6 +14,10 @@ In this repository, you will find a wide range of LC solutions, including the fo
     - **1.Two Sum**: [link](1.two_sum.py)
     - **1480.Running Sum Of 1 Array**: [link](a1480.running_sum_of_1_array.py)
 
+- Integers:
+    
+    - **1342. Number of Steps to Reduce a Number to Zero**: [link](1342.number_of_steps_to_reduce_a_number_to_zero.py)
+
 - Strings:
 
     - **293.Is Subsequence**: [link](293.is_subsequence.py)
