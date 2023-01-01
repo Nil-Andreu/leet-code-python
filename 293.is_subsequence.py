@@ -39,3 +39,6 @@ class Solution:
                     return True
 
             pointer_t += 1
+        
+        # Always return a value
+        return False
