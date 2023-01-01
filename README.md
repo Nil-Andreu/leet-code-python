@@ -17,6 +17,7 @@ In this repository, you will find a wide range of LC solutions, including the fo
 - Integers:
     
     - **1342. Number of Steps to Reduce a Number to Zero**: [link](1342.number_of_steps_to_reduce_a_number_to_zero.py)
+    - **2169. Count Operations to Obtain Zero**: [link](2169.count_operations_to_obtain_zero.py)
 
 - Strings:
 
