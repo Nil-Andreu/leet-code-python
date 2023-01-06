@@ -21,6 +21,7 @@ In this repository, you will find a wide range of LC solutions, including the fo
 
 - Strings:
 
+    - **58.Length of Last Word**: [link](58.length_of_last_word.py)
     - **293.Is Subsequence**: [link](293.is_subsequence.py)
     - **250.Isomorphic Strings**: [link](250.isomorphic_strings.py)
 
